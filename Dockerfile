@@ -1,4 +1,4 @@
-FROM iron/base
+FROM ubuntu:14.04
 
 WORKDIR /app
 
